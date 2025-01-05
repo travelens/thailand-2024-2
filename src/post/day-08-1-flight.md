@@ -1,6 +1,6 @@
 ---
 title: 'Day 8: Flight from Chiang Mai to Bangkok'
-date: 2024-11-21T14:00:00+07:00
+date: 2024-11-19T14:00:00+07:00
 description: 'We bade goodbye and boarded Thai Airways TG105 from Chiang Mai to Bangkok.'
 trip: Thailand 2024 Part 2
 place: South East Asia

@@ -1,6 +1,6 @@
 ---
 title: 'Day 8: Our Apartment at Khet Pathum Wan'
-date: 2024-11-21T16:00:00+07:00
+date: 2024-11-19T16:00:00+07:00
 description: 'Photos from the apartment we stayed in Bangkok.'
 trip: Thailand 2024 Part 2
 place: South East Asia

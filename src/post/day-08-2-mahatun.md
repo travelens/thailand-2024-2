@@ -1,6 +1,6 @@
 ---
 title: 'Day 8: Lunch at Madam Somtum at Mahatun'
-date: 2024-11-21T15:00:00+07:00
+date: 2024-11-19T15:00:00+07:00
 description: 'We are staying at Mahatun Plaza near Ploenchit BTS Station, and had a late lunch at Madam Somtum.'
 trip: Thailand 2024 Part 2
 place: South East Asia

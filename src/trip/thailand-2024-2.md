@@ -3,7 +3,7 @@ title: Thailand 2024 Part 2
 place: South East Asia
 timezone: Asia/Bangkok
 location: Thailand
-start: 2024-11-12T10:00:00+11:00
+start: 2024-11-19T14:00:00+7:00
 end: 2024-11-26T22:00:00+11:00
 description: "Part 2 of a long planned and awaited Girl's trip to Thailand, where we conclude the trip by spending 7 days in Bangkok."
 image: ./trip.jpeg
