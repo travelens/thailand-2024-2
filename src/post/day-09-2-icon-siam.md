@@ -1,7 +1,7 @@
 ---
 title: 'Day 9: Icon Siam'
 date: 2024-11-20T17:00:00+07:00
-description: 'In the afternoon we took a taxi to Icon Siam to explore the amazing recreation of a floating market on the ground floor.'
+description: 'In the afternoon we took a taxi to Icon Siam to explore Sook Siam - the amazing recreation of a floating market on the ground floor.'
 trip: Thailand 2024 Part 2
 place: South East Asia
 timezone: Asia/Bangkok

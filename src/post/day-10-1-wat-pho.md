@@ -1,7 +1,7 @@
 ---
 title: 'Day 10: Bangkok City Tour - Wat Pho'
 date: 2024-11-21T09:00:00+07:00
-description: 'Belinda, Margaret and I opted to take a private city tour of Bangkok organised by BoardingPass. First stop is Wat Pho'
+description: 'Belinda, Margaret and I opted to take a private city tour of Bangkok organised by BoardingPass. First stop is Wat Pho, which contains the giant statue of the Reclining Buddha.'
 trip: Thailand 2024 Part 2
 place: South East Asia
 timezone: Asia/Bangkok
@@ -23,7 +23,7 @@ Our guide picked us up at 8:00AM and his name is Chuchai but he told us to call 
 - Wat Arun (Temple of Dawn)
 - Boat trip along the Klong (45-50 mins)
 
-The first stop is Wat Pho.
+The first stop is [Wat Pho](https://en.wikipedia.org/wiki/Wat_Pho) (วัดโพธิ์).
 
 Wat Pho is one of Bangkok's oldest temples. It existed before Bangkok was established as the capital by King Rama I. Our guide explained that King Rama I (Phra Bat Somdet Phra Phutthayotfa Chulalok Maharat พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช) was the founder of the Rattanakosin Kingdom (now Thailand) and the first King of Siam from the reigning Chakri dynasty. He ascended the throne in 1782, following the deposition of King Taksin of Thonburi, who united Siam following the collapse of the Ayutthaya Kingdom but became mad in his later years (or so they say, perhaps they just wanted to get rid of him).
 
