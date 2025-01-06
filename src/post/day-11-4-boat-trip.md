@@ -1,5 +1,5 @@
 ---
-title: 'Day 11: Road Trip to Amphawa'
+title: 'Day 11: Boat Trip to Amphawa Floating Market'
 date: 2024-11-22T18:00:00+07:00
 description: 'In the evening, we hired a river boat to take us to Amphawa Floating Market.'
 trip: Thailand 2024 Part 2
