@@ -18,3 +18,7 @@ tags:
 ---
 
 The next morning, we woke up, had breakfast at Naam Cafe, and checked out of the homestay, but not before taking a few photos. I was glad to see the water has receeded, so we were able to visit more places in the property. Cat, Mam and Nuch were supposed to go and give alms to the monks in a nearby temple, but apparently the monks are busy today with an event.
+
+This video is a dog we found on the property:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7_PQ1RZ1XTA?si=oTFWh9q0KGX2cd2a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

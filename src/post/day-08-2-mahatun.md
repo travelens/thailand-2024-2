@@ -22,3 +22,7 @@ The apartment we are staying is located at Mahatun Plaza, very close to the BTS 
 Even though I had lunch on the plane, we opted for another lunch at Madam Somtum - [Facebook Page](https://www.facebook.com/madamsomtum/). This is an Esan restaurant serving different varieties of somtum along with other Thai dishes, and apparently owned by the same owner as the apartment we are staying in.
 
 The restaurant has an interesting decor, and the salted egg somtum we ordered was really nice!
+
+Here is a video of the staff at Madam Somtum at work:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V6J8Kyy9oCU?si=NCO23Odq9fk_uPW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

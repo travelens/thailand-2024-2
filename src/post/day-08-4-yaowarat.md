@@ -17,6 +17,10 @@ tags:
   - dinner
 ---
 
+We took our first BTS train to Yaowarat (changing over to the Metro to reach our final destination):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7KK5mMo8wko?si=DoqgUDx0FnIHy48r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Yaowarat Rd is the main artery of Bangkok's Chinatown, and every night it is full of food stalls. We saw many interesting stalls selling anything from giant oysters to sculptured 3D ice cream to all kinds of food, even shark fins and bird nests.
 
 We couldn't help but stop at the famous Plaeng Nam Shark Fin-Bird’s Nest（義福巷燕窩). I was not game enough to try the shark fin soup, but I had the crab fried rice and tasted the fish maw soup.

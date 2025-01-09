@@ -60,3 +60,7 @@ Outside the Phra Rabiang cloisters are dotted many smaller chedis, called Phra C
 The wat and the reclining Buddha (Phra Buddhasaiyas, Thai: พระพุทธไสยาสน์) were built by Rama III in 1832. The image of the reclining Buddha represents the entry of Buddha into Nirvana and the end of all reincarnations. The posture of the image is referred to as sihasaiyas, the posture of a sleeping or reclining lion. The figure is 15 m high and 46 m long, and it is one of the largest Buddha statues in Thailand.
 
 ![Phra Buddhasaiyas](../gallery/day-10-wat-pho/38_Phra_Buddhasaiyas.webp)
+
+This is video I made of our visit:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Z2l1rst97k?si=46-CF4-KupOkh6Ca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

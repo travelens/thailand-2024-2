@@ -20,3 +20,7 @@ tags:
 [Amphawa Floating Market](https://amphawafloatingmarket.org) is located in the province of Samut Songkhram, Thailand, Amphawa Floating Market (ตลาดน้ำอัมพวา) is a vibrant and colourful market set against the stunning backdrop of the Mae Khlong River. There are a myriad of food stalls and other shops selling local items and handicrafts.
 
 I was amazed at the variety of food here, including huge grilled river prawns, various kinds of skewers and sausages. We ended up ordering probably too much, and had a delightful time in the riverfront eating, and then walked around visiting the stalls and enjoying the various boats in the canal carrying tourists.
+
+This video gives a good overview of Amphawa Floating Market from the boat:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDNzgqKIjmI?si=jbcLAqj088nkKTml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

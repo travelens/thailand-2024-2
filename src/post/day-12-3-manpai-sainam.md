@@ -18,3 +18,7 @@ tags:
 ---
 
 Manpai Sainam Café & Restaurant ร้านอาหาร ม่านไผ่ สายน้ำ ([Facebook Page](https://www.facebook.com/profile.php/?id=100081770051609)) nestled in the Sam Phran District of Nakhon Pathom, is an interesting restaurant where diners enjoy food in outdoor huts or cabanas situated around an artificial lake. The food here is delicious, and there are lots of opportunities to take photos around the site. At the back is a waterlily pond which is somewhat reminiscent of Monet's Garden, but it was a bit overgrown when I was there.
+
+This video gives a good overview of the restaurant:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRrG_yKuEpk?si=IjI9T5hDr7ypwL1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

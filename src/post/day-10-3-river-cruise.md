@@ -26,4 +26,4 @@ We passed through old communities along the canal banks where life seemed peacef
 
 This video is a glimpse of what the river journey is like:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tu2HUFZJe8M?si=-Lu18zlY8TWwJq3q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XRJIihAnV8c?si=lsa-vLa2R3tW2ERK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -90,3 +90,7 @@ The Dusit Maha Prasad Throne Hall is enclosed by boundary walls as it is part of
 Rama IV built the Abhorn Bimok Pavilion behind the west boundary wall of the Phrathinang Dusit Maha Prasad complex as a robing pavilion prior to mounting or after dismounting a palanquin.
 
 ![Abhorn Bimok Pavilion](../gallery/day-10-grand-palace/101_Abhorn_Bimok_Pavilion.webp)
+
+This is a video of the regimental march:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOuDV1h4gwo?si=bQQA5liSKIwcPmzS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

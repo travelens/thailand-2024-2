@@ -18,3 +18,7 @@ tags:
 ---
 
 The boat was quite similar to the river boat we went on in Bangkok. It passed through a number of temples on the way to Amphawa Floating market, including Wat Bang Koh Thepsak, Wat Bangkhae Noi and Wat Phummarin Kudithong. After leaving the Khwae Om canal, it went along the Mae Klong river before turning into Wat Chula canal, where the Amphawa Floating market is.
+
+This video documents part of our boat trip to Amphawa:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eF6Xp4od7tc?si=a4wL0tpj7QwMpObj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
