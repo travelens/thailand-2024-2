@@ -28,6 +28,8 @@ Along Soi Sukhumvit 11, I passed through more examples of cable art:
 
 After that we headed to [Siam Paragon](https://www.siamparagon.co.th). Cat's friend Nuch owns a jewellery shop here called XAVIER BY UTHAI JEWELRY - [Facebook Page](https://www.facebook.com/xavierbyuthaijewelry/).
 
+![Xavier](../gallery/day-09-bangkok/11_Xavier.webp)
+
 We also had lunch here at the Food Court on the Ground Floor. I had Thai Beef Noodle soup (Guay Tiew Nuea Nam Sai) and it was delicious. Aileen decided to order the crab omelette from Here Hai, a Michelins starred restaurant that as opened an outlet at the food court. It was delicious (I tried it), but it took nearly an hour for her to get the dish!
 
 ![crab omelette](../gallery/day-09-bangkok/05_Crab_omelette.webp)

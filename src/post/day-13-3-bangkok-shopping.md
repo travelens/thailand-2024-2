@@ -21,6 +21,10 @@ In the afternoon, I continued my exploration of Bangkok shopping centres within 
 
 centralwOrld was pretty much as I remembered it from 10 years, it is a huge shopping centre and takes quite some time to walk through it all. I ended up having dinner at the Thai food court in the Central Department Store, and it was good.
 
+![Lim Lao Ngow](../gallery/day-13-bangkok-shopping/33_Lim_Lao_Ngow.webp)
+
+![Noodles](../gallery/day-13-bangkok-shopping/34_Noodles.webp)
+
 This video is the Warm Wishes Tunnel connecting Central Embassy to Central Childlom:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WZI_C40xr54?si=1UPy1PqXn_LUG6_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
